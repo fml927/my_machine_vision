@@ -1,0 +1,1 @@
+storage pictures for artical
