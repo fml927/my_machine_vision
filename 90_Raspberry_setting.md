@@ -13,3 +13,11 @@
 2. 安装完成后，重启。
 3. 打开：左下脚图标->首选项->输入法，设置输入法无默认选项。
 
+## camera:
+1. https://python-projective-camera-model.readthedocs.io/en/latest/
+2. https://github.com/iRoboter/camera.py
+
+
+## picamera:
+1. https://picamera.readthedocs.io/en/release-1.13/
+

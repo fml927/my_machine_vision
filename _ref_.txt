@@ -1,7 +1,0 @@
-camera:
-https://python-projective-camera-model.readthedocs.io/en/latest/
-https://github.com/iRoboter/camera.py
-
-
-picamera:
-https://picamera.readthedocs.io/en/release-1.13/
