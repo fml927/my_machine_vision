@@ -21,3 +21,6 @@
 ## picamera:
 1. https://picamera.readthedocs.io/en/release-1.13/
 
+## ‎命令行修改Raspberry设置
+命令行运行： sudo raspi-config
+
